@@ -1,0 +1,2 @@
+• Ensure QA deployment readiness
+– Verify proper code deployment into QA; dry-run CI/CD pipeline stages to confirm environment and data setup is accurate 
