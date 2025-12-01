@@ -1,2 +1,0 @@
-• Develop comprehensive test scenarios & test cases
-– Map source-to-target data flows based on mapping documents. Cover validation types such as schema, transformation logic, completeness, nulls, duplicates, primary key enforcement, record counts and data quality checks 

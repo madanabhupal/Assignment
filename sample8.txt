@@ -1,2 +1,0 @@
-• Execute and debug Databricks pipeline runs
-– Trigger ETL jobs or notebooks; monitor logs and outputs; trace failures back to root cause.
